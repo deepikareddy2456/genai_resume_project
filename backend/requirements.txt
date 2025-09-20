@@ -1,0 +1,8 @@
+PyMuPDF==1.22.5
+pdfplumber==0.9.0
+python-docx==0.8.11
+spacy==3.7.0
+nltk==3.9.1
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+numpy==1.26.0

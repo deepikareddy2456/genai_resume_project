@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+docx2txt
+spacy
+pandas
+numpy
+scikit-learn
+faiss-cpu
+python-docx
+sentence-transformers
